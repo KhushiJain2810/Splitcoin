@@ -47,7 +47,7 @@ The project is developed using **C++ programming language**.
 - [@Khushi Jain](https://github.com/KhushiJain2810)
 - @Kriti Swaroop
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://khushijain2810.medium.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-jain-67133b188/)
+[![medium](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://khushijain2810.medium.com/)
 
   
